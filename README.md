@@ -37,13 +37,12 @@
 
 ## Key Insights
 
-* Customers with **low tenure** are more likely to churn
-* **Month-to-month contracts** have higher churn rate
-* Higher **monthly charges** may lead to churn
-* Long-term customers generate more revenue
+* Customers with **low tenure** are more likely to churn.
+* **Month-to-month contracts** have higher churn rate.
+* Higher **monthly charges** may lead to churn.
+* Long-term customers generate more revenue.
 
 ## Conclusion
 
-* Provides insights to improve customer retention
-* Helps businesses identify high-risk customers
-
+* Provides insights to improve customer retention.
+* Helps businesses identify high-risk customers.
